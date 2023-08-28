@@ -1,0 +1,7 @@
+C:\Users\hades\source\repos\Name-sorter\Name-sorter\bin\Debug\Name-sorter.exe.config
+C:\Users\hades\source\repos\Name-sorter\Name-sorter\bin\Debug\Name-sorter.exe
+C:\Users\hades\source\repos\Name-sorter\Name-sorter\bin\Debug\Name-sorter.pdb
+C:\Users\hades\source\repos\Name-sorter\Name-sorter\obj\Debug\Name-sorter.csproj.AssemblyReference.cache
+C:\Users\hades\source\repos\Name-sorter\Name-sorter\obj\Debug\Name-sorter.csproj.CoreCompileInputs.cache
+C:\Users\hades\source\repos\Name-sorter\Name-sorter\obj\Debug\Name-sorter.exe
+C:\Users\hades\source\repos\Name-sorter\Name-sorter\obj\Debug\Name-sorter.pdb
